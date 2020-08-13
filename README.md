@@ -8,3 +8,4 @@ In this project we analyze the impact of some special offer types on the custome
 - sklearn
 
 
+In order to run the project checkout the repository and open the main-file in jupyter notebook.
